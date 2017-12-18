@@ -29,6 +29,7 @@
         'payroll_base',
         'payroll_hourly_rate',
     ],
+    
     'data': [
         'data/hr_holiday_status.xml',
         'data/hr_activity.xml',
